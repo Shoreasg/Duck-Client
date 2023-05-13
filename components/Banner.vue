@@ -57,7 +57,7 @@ export default {
                 const countdown = this.getDiffString(end-current)
                 text = `Buy one get one free weekend ending in ${countdown}`
             } else {
-                text = `Somethings brewing...`
+                text = `Website deploy by Shoreasg. Connect Wallet function isn't working. Shorea will never ask you to connect your wallet on this site.`
             }
 
             text += '.'
